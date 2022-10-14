@@ -1,6 +1,8 @@
 .center {
     margin: auto;
     width: auto;
+    display: flex;
+    justify-content: center;
     border: 5px solid #17aa12;
     padding: 10px;
     }
